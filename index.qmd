@@ -17,15 +17,15 @@ You can view my [CV](cv.pdf) here.
 Publications:
 :::
 
-* [Active but Hasty? CEO Age, Ownership Structure, and the Quantity–Quality Trade-off in Investment](https://www.sciencedirect.com/science/article/pii/S1544612326010275) (with Daisuke Miyakawa), *Finance Research Letters*, 2026.
+* [Active but Hasty? CEO age, ownership structure, and the quantity–quality trade-off in investment](https://doi.org/10.1016/j.frl.2026.110499) (with Daisuke Miyakawa), *Finance Research Letters*, Vol. 109, 110499, 2026.
 * [The Impact of Mergers on Aggregate Productivity: An Empirical Analysis Using Productivity Decomposition](https://doi.org/10.1093/icc/dtaf032) (with Daisuke Miyakawa), *Industrial and Corporate Change*, Advance Article, 2025.
 
 ::: {.gs-heading}
 Working Papers:
 :::
 
-* Supply Shocks and Inflationary Pressures in Global Value Chains: The Role of Network Centrality (with Harumasa Shirakawa). [Presented at: BOK/ERI–BOJ/IMES Joint Research Workshop 2026, ESCoE 2026, Japanese Economic Association Spring Meeting 2026, NASM 2026, RISE Conference 2026 (scheduled), BoC–Philadelphia Fed–BOJ Joint Workshop (scheduled).]{.gs-venues}
-* [Product and Process Innovation: Determinants and Dynamic Effects on Firm Growth](https://www.imes.boj.or.jp/research/papers/english/25-E-18.pdf) (with Harumasa Shirakawa), IMES Discussion Paper Series No. 2025-E-18, 2025. [Presented at: ESWC 2025, CEBRA 2025.]{.gs-venues}
+* Supply Shocks and Inflationary Pressures in Global Value Chains: The Role of Network Centrality (with Harumasa Shirakawa). [Presented at: BOK/ERI–BOJ/IMES Joint Research Workshop 2026, ESCoE Conference on Economic Measurement 2026, Japanese Economic Association Spring Meeting 2026, North American Summer Meeting of the Econometric Society 2026, Federal Reserve Bank of Cleveland RISE Conference 2026 (scheduled), Bank of Canada–Philadelphia Fed–Bank of Japan Joint Workshop (scheduled).]{.gs-venues}
+* [Product and Process Innovation: Determinants and Dynamic Effects on Firm Growth](https://www.imes.boj.or.jp/research/papers/english/25-E-18.pdf) (with Harumasa Shirakawa), IMES Discussion Paper Series No. 2025-E-18, 2025. [Presented at: Econometric Society World Congress 2025, CEBRA Annual Meeting 2025.]{.gs-venues}
 * [Potential Growth in Japan: Issues on Its Relationship with Prices and Wages](https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e16.pdf) (with Ichiro Fukunaga, Yoshihiko Hogen, Kenji Kanai, and Satoshi Tsuchida), Bank of Japan Working Paper Series No. 24-E-16, 2024.
 * [Determinants of Price Markups at Japanese Firms and Implications for Productivity](https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e15.pdf) (with Kosuke Aoki, Yoshihiko Hogen, Kenji Kanai, and Kosuke Takatomi), Bank of Japan Working Paper Series No. 24-E-15, 2024.
 * [Changes in the Global Economic Landscape and Issues for Japan's Economy](https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e03.pdf) (with Yoshihiko Hogen, Kenji Kanai, and Naoya Kishi), Bank of Japan Working Paper Series No. 24-E-3, 2024.
