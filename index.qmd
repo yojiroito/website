@@ -17,13 +17,15 @@ You can view my [CV](cv.pdf) here.
 Publications:
 :::
 
+* [Active but Hasty? CEO Age, Ownership Structure, and the Quantity–Quality Trade-off in Investment](https://www.sciencedirect.com/science/article/pii/S1544612326010275) (with Daisuke Miyakawa), *Finance Research Letters*, 2026.
 * [The Impact of Mergers on Aggregate Productivity: An Empirical Analysis Using Productivity Decomposition](https://doi.org/10.1093/icc/dtaf032) (with Daisuke Miyakawa), *Industrial and Corporate Change*, Advance Article, 2025.
 
 ::: {.gs-heading}
 Working Papers:
 :::
 
-* [Product and Process Innovation: Determinants and Dynamic Effects on Firm Growth](https://www.imes.boj.or.jp/research/papers/english/25-E-18.pdf) (with Harumasa Shirakawa), IMES Discussion Paper Series No. 2025-E-18, 2025.
+* Supply Shocks and Inflationary Pressures in Global Value Chains: The Role of Network Centrality (with Harumasa Shirakawa). [Presented at: BOK/ERI–BOJ/IMES Joint Research Workshop 2026, ESCoE 2026, Japanese Economic Association Spring Meeting 2026, NASM 2026, RISE Conference 2026 (scheduled), BoC–Philadelphia Fed–BOJ Joint Workshop (scheduled).]{.gs-venues}
+* [Product and Process Innovation: Determinants and Dynamic Effects on Firm Growth](https://www.imes.boj.or.jp/research/papers/english/25-E-18.pdf) (with Harumasa Shirakawa), IMES Discussion Paper Series No. 2025-E-18, 2025. [Presented at: ESWC 2025, CEBRA 2025.]{.gs-venues}
 * [Potential Growth in Japan: Issues on Its Relationship with Prices and Wages](https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e16.pdf) (with Ichiro Fukunaga, Yoshihiko Hogen, Kenji Kanai, and Satoshi Tsuchida), Bank of Japan Working Paper Series No. 24-E-16, 2024.
 * [Determinants of Price Markups at Japanese Firms and Implications for Productivity](https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e15.pdf) (with Kosuke Aoki, Yoshihiko Hogen, Kenji Kanai, and Kosuke Takatomi), Bank of Japan Working Paper Series No. 24-E-15, 2024.
 * [Changes in the Global Economic Landscape and Issues for Japan's Economy](https://www.boj.or.jp/en/research/wps_rev/wps_2024/data/wp24e03.pdf) (with Yoshihiko Hogen, Kenji Kanai, and Naoya Kishi), Bank of Japan Working Paper Series No. 24-E-3, 2024.
@@ -33,9 +35,9 @@ Working Papers:
 Works in Progress:
 :::
 
-* Supply and Demand Shocks, Global Value Chains, and Inflation: Evidence from Trade Microdata, with Harumasa Shirakawa
-* Investment Behavior over Firm and CEO Life Cycles, with Daisuke Miyakawa.
-* Merger Patterns, Costly Exit, and Aggregate Implications.
+* Managing Across Firms: Span of Control in CEO-Firm Networks
+* Importing Shortages, Exporting Inflation: Evidence from Shipment-Level Trade Data
+* Merger Patterns, Costly Exit, and Aggregate Implications. [Presented at: Japanese Economic Association Spring Meeting 2025.]{.gs-venues}
 
 ```{=html}
 <script>
