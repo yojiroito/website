@@ -1,47 +1,40 @@
-/* 学術サイト向けのシンプルなフォント・レイアウト設定 */
+/* Google Sites 完全再現用スタイル */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  line-height: 1.6;
+  line-height: 1.7;
   color: #212529;
+  font-size: 15px;
 }
 
-h2 {
-  margin-top: 2.5rem;
-  border-bottom: 1px solid #dee2e6;
-  padding-bottom: 0.4rem;
-  font-weight: 600;
-}
-
-ul {
-  padding-left: 1.2rem;
-}
-
-li {
-  margin-bottom: 0.8rem;
+/* 本文全体の左右余白と最大幅の調整（GSのようなスッキリした幅にする） */
+main.content {
+  max-width: 800px !important;
+  margin: 0 auto;
 }
 
 /* --------------------------------------------------
- * Google Sites 完全再元：パララックス全幅ヘッダー
+ * 1. 縦幅・横幅の広いパララックスヘッダー（GS完全再現）
  * -------------------------------------------------- */
 .hero-header {
-  /* 画面幅全体（左右のカード制限を突破して100%表示） */
-  width: 100vw;
+  /* 本文コンテナの制限を無視して画面横幅100%（全幅）へ広げる */
+  width: 100vw !important;
   position: relative;
   left: 50%;
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-  margin-top: -1rem; /* Quartoデフォルトの上部余白を相殺 */
-  margin-bottom: 3rem;
+  margin-top: -5rem !important; /* Quarto上部の余白を相殺 */
+  margin-bottom: 2.5rem;
 
-  /* 背景画像の設定とパララックス（スクロール固定）効果 */
+  /* 縦の高さを十分に広げる（GSの迫力ある縦幅を再現） */
+  height: 420px;
+
+  /* 背景画像とスクロール連動（パララックス効果） */
   background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url('header.png');
   background-size: cover;
   background-position: center;
-  background-attachment: fixed; /* GS特有のスクロール時に画像が連動する効果 */
+  background-attachment: fixed; /* GS特有のスクロール固定効果 */
 
-  /* ヘッダーの高さと上下中央揃え */
-  height: 320px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -52,5 +45,37 @@ li {
   font-size: 3.2rem;
   font-weight: 700;
   letter-spacing: 1px;
-  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.5); /* 文字の視認性を上げる微細な影 */
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* --------------------------------------------------
+ * 2. GS風のシンプルな見出し・リスト設定
+ * -------------------------------------------------- */
+/* 余計な下線や巨大化をなくし、GSのシンプルな見出しを再現 */
+.gs-heading {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  color: #212529;
+}
+
+ul {
+  padding-left: 1.5rem;
+  margin-top: 0.3rem;
+}
+
+li {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+/* リンクをGSのような綺麗な青色にする */
+a {
+  color: #1a73e8;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #1557b0;
 }
