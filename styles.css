@@ -36,7 +36,7 @@
   --hero-parallax: 120px;
   --hero-overlay: rgba(0, 0, 0, 0.10);   /* 元サイトはほぼ素の画像 */
   --hero-focus: 50% 45%;
-  --hero-title-size: 56px;       /* ※画像からの推定。実測したら置換 */
+  --hero-title-size: 100px;       /* ※画像からの推定。実測したら置換 */
   --hero-title-weight: 700;      /* ※同上 */
 }
 
