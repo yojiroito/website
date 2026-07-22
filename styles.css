@@ -19,3 +19,20 @@ ul {
 li {
   margin-bottom: 0.8rem;
 }
+
+/* ヘッダー画像と文字のデザイン設定 */
+.hero-header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('Gemini_Generated_Image_jnymo5jnymo5jnym (2).jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 80px 20px;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.hero-title {
+  color: #ffffff !important;
+  font-size: 2.8rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
