@@ -27,7 +27,7 @@
 
   /* --- 本文カラム --- */
   /* ※ここだけ未実測。元サイトを最大化して Layout タブで測った値に置換してください */
-  --content-max: 1186px;
+  --content-max: 1080px;
   --content-pad: 24px;
 
   /* --- ヒーローヘッダー --- */
@@ -36,7 +36,7 @@
   --hero-parallax: 120px;
   --hero-overlay: rgba(0, 0, 0, 0.10);   /* 元サイトはほぼ素の画像 */
   --hero-focus: 50% 45%;
-  --hero-title-size: 100px;       /* ※画像からの推定。実測したら置換 */
+  --hero-title-size: 40px;       /* ※画像からの推定。実測したら置換 */
   --hero-title-weight: 700;      /* ※同上 */
 }
 
@@ -228,6 +228,15 @@ main.content li p {
 
 main.content li em {
   font-style: italic;
+}
+
+/* 学会報告歴（本文より一段小さく、灰色で副次情報として表示） */
+.gs-venues {
+  display: block;
+  margin-top: 2px;
+  font-size: 10pt;
+  color: #5f6368;
+  line-height: 1.5;
 }
 
 /* ==========================================================
