@@ -26,7 +26,7 @@
   --hero-height: 520px;          /* PC での高さ */
   --hero-height-sp: 320px;       /* スマホでの高さ */
   --hero-parallax: 120px;        /* パララックスの可動幅（上下バッファ） */
-  --hero-overlay: rgba(0, 0, 0, 0.34);
+  --hero-overlay: rgba(0, 0, 0, 0.18);
   --hero-focus: 50% 45%;         /* 背景画像のトリミング基準点 */
 }
 
@@ -106,67 +106,64 @@ main.content > p {
 
 .hero-header {
   position: relative;
-  /* 親カラムの max-width を突き破って画面幅いっぱいに広げる */
   width: 100vw;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
   height: var(--hero-height);
   margin-bottom: 3rem;
-
-  overflow: hidden;          /* ← 動く背景をこの矩形で切り抜く */
+  overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: center;
-  isolation: isolate;
+  background-color: #1b2733;   /* 画像が出ない場合のフォールバック */
 }
 
-/* 実際に動く背景レイヤー。上下に --hero-parallax 分の余白を持たせ、
-   スクロールに応じて JS が translate3d で下方向へずらす。 */
+/* 第1層:動く背景 */
 .hero-bg {
   position: absolute;
   left: 0;
   right: 0;
   top: calc(-1 * var(--hero-parallax));
   height: calc(100% + var(--hero-parallax) * 2);
-
   background-image: url("header.png");
   background-size: cover;
   background-position: var(--hero-focus);
   background-repeat: no-repeat;
-
   will-change: transform;
   transform: translate3d(0, 0, 0);
-  z-index: -2;
+  z-index: 0;
 }
 
-/* 文字の可読性を担保する薄い暗幕（Sites のバナー処理に相当） */
+/* 第2層:暗幕(フラットに変更。グラデーションをやめて明るく) */
 .hero-header::after {
   content: "";
   position: absolute;
   inset: 0;
-  background: linear-gradient(
-    to bottom,
-    rgba(0, 0, 0, 0.15),
-    var(--hero-overlay) 55%,
-    rgba(0, 0, 0, 0.45)
-  );
-  z-index: -1;
+  background: var(--hero-overlay);
+  z-index: 1;
+  pointer-events: none;
 }
 
+/* 第3層:文字。必ず最前面 */
 .hero-inner {
+  position: relative;
+  z-index: 2;
   text-align: center;
   padding: 0 var(--content-pad);
 }
 
 .hero-title {
   display: block;
-  color: #ffffff;
+  margin: 0;
+  color: #ffffff !important;
   font-family: var(--gs-font);
   font-size: clamp(2.1rem, 5.5vw, 3.4rem);
-  font-weight: 400;            /* Sites のバナー見出しは太すぎない */
+  font-weight: 400;
   letter-spacing: 0.02em;
   line-height: 1.2;
-  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.45);
+  border: none;
+  /* 暗幕を薄くしたぶん、影を強めて可読性を確保 */
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.55), 0 0 4px rgba(0, 0, 0, 0.4);
 }
 
 /* ==========================================================
