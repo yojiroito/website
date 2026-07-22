@@ -8,7 +8,7 @@ title: ""
 
 I am an economist at the Bank of Japan and a Ph.D. student at Waseda University.
 
-You can view my [CV here](CV.pdf).
+You can view my [CV](CV%20(2).pdf) here.
 
 ::: {.gs-heading}
 Publications:
@@ -20,11 +20,11 @@ Publications:
 Working Papers:
 :::
 
-* [Product and Process Innovation: Determinants and Dynamic Effects on Firm Growth](URL_HERE) (with Harumasa Shirakawa), IMES Discussion Paper Series No. 2025-E-18, 2025.
-* [Potential Growth in Japan: Issues on Its Relationship with Prices and Wages](URL_HERE) (with Ichiro Fukunaga, Yoshihiko Hogen, Kenji Kanai, and Satoshi Tsuchida), Bank of Japan Working Paper Series No. 24-E-16, 2024.
-* [Determinants of Price Markups at Japanese Firms and Implications for Productivity](URL_HERE) (with Kosuke Aoki, Yoshihiko Hogen, Kenji Kanai, and Kosuke Takatomi), Bank of Japan Working Paper Series No. 24-E-15, 2024.
-* [Changes in the Global Economic Landscape and Issues for Japan's Economy](URL_HERE) (with Yoshihiko Hogen, Kenji Kanai, and Naoya Kishi), Bank of Japan Working Paper Series No. 24-E-3, 2024.
-* [Pricing Patterns over Product Life-Cycle and Quality Growth at Product Turnover: Empirical Evidence from Japan](URL_HERE) (with Nobuhiro Abe, Ko Munakata, Shinsuke Ohyama, and Kimiaki Shinozaki), Bank of Japan Working Paper Series No. 16-E-5, 2016.
+* [Product and Process Innovation: Determinants and Dynamic Effects on Firm Growth](https://www.imes.boj.or.jp/english/research/papers/dp25-E-18.pdf) (with Harumasa Shirakawa), IMES Discussion Paper Series No. 2025-E-18, 2025.
+* [Potential Growth in Japan: Issues on Its Relationship with Prices and Wages](https://www.boj.or.jp/en/research/wps_rev/wps_2024/wp24e16.htm) (with Ichiro Fukunaga, Yoshihiko Hogen, Kenji Kanai, and Satoshi Tsuchida), Bank of Japan Working Paper Series No. 24-E-16, 2024.
+* [Determinants of Price Markups at Japanese Firms and Implications for Productivity](https://www.boj.or.jp/en/research/wps_rev/wps_2024/wp24e15.htm) (with Kosuke Aoki, Yoshihiko Hogen, Kenji Kanai, and Kosuke Takatomi), Bank of Japan Working Paper Series No. 24-E-15, 2024.
+* [Changes in the Global Economic Landscape and Issues for Japan's Economy](https://www.boj.or.jp/en/research/wps_rev/wps_2024/wp24e03.htm) (with Yoshihiko Hogen, Kenji Kanai, and Naoya Kishi), Bank of Japan Working Paper Series No. 24-E-3, 2024.
+* [Pricing Patterns over Product Life-Cycle and Quality Growth at Product Turnover: Empirical Evidence from Japan](https://www.boj.or.jp/en/research/wps_rev/wps_2016/wp16e05.htm) (with Nobuhiro Abe, Ko Munakata, Shinsuke Ohyama, and Kimiaki Shinozaki), Bank of Japan Working Paper Series No. 16-E-5, 2016.
 
 ::: {.gs-heading}
 Works in Progress:
