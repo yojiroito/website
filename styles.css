@@ -22,7 +22,7 @@ li {
 
 /* ヘッダー画像と文字のデザイン設定 */
 .hero-header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('Gemini_Generated_Image_jnymo5jnymo5jnym (2).png');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('header.png');
   background-size: cover;
   background-position: center;
   min-height: 250px; /* 画像の高さを確保 */
