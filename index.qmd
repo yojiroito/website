@@ -10,40 +10,26 @@ I am an economist at the Bank of Japan and a Ph.D. student at Waseda University.
 
 You can view my [CV here](CV.pdf).
 
----
+::: {.gs-heading}
+Publications:
+:::
 
-## Publications
+* [The Impact of Mergers on Aggregate Productivity: An Empirical Analysis Using Productivity Decomposition](https://doi.org/10.1093/icc/dtae000) (with Daisuke Miyakawa), *Industrial and Corporate Change*, Advance Article, 2025.
 
-* **The Impact of Mergers on Aggregate Productivity: An Empirical Analysis Using Productivity Decomposition**  
-  (with Daisuke Miyakawa), *Industrial and Corporate Change*, Advance Article, 2025.
+::: {.gs-heading}
+Working Papers:
+:::
 
----
+* [Product and Process Innovation: Determinants and Dynamic Effects on Firm Growth](URL_HERE) (with Harumasa Shirakawa), IMES Discussion Paper Series No. 2025-E-18, 2025.
+* [Potential Growth in Japan: Issues on Its Relationship with Prices and Wages](URL_HERE) (with Ichiro Fukunaga, Yoshihiko Hogen, Kenji Kanai, and Satoshi Tsuchida), Bank of Japan Working Paper Series No. 24-E-16, 2024.
+* [Determinants of Price Markups at Japanese Firms and Implications for Productivity](URL_HERE) (with Kosuke Aoki, Yoshihiko Hogen, Kenji Kanai, and Kosuke Takatomi), Bank of Japan Working Paper Series No. 24-E-15, 2024.
+* [Changes in the Global Economic Landscape and Issues for Japan's Economy](URL_HERE) (with Yoshihiko Hogen, Kenji Kanai, and Naoya Kishi), Bank of Japan Working Paper Series No. 24-E-3, 2024.
+* [Pricing Patterns over Product Life-Cycle and Quality Growth at Product Turnover: Empirical Evidence from Japan](URL_HERE) (with Nobuhiro Abe, Ko Munakata, Shinsuke Ohyama, and Kimiaki Shinozaki), Bank of Japan Working Paper Series No. 16-E-5, 2016.
 
-## Working Papers
+::: {.gs-heading}
+Works in Progress:
+:::
 
-* **Product and Process Innovation: Determinants and Dynamic Effects on Firm Growth**  
-  (with Harumasa Shirakawa), *IMES Discussion Paper Series* No. 2025-E-18, 2025.
-
-* **Potential Growth in Japan: Issues on Its Relationship with Prices and Wages**  
-  (with Ichiro Fukunaga, Yoshihiko Hogen, Kenji Kanai, and Satoshi Tsuchida), *Bank of Japan Working Paper Series* No. 24-E-16, 2024.
-
-* **Determinants of Price Markups at Japanese Firms and Implications for Productivity**  
-  (with Kosuke Aoki, Yoshihiko Hogen, Kenji Kanai, and Kosuke Takatomi), *Bank of Japan Working Paper Series* No. 24-E-15, 2024.
-
-* **Changes in the Global Economic Landscape and Issues for Japan's Economy**  
-  (with Yoshihiko Hogen, Kenji Kanai, and Naoya Kishi), *Bank of Japan Working Paper Series* No. 24-E-3, 2024.
-
-* **Pricing Patterns over Product Life-Cycle and Quality Growth at Product Turnover: Empirical Evidence from Japan**  
-  (with Nobuhiro Abe, Ko Munakata, Shinsuke Ohyama, and Kimiaki Shinozaki), *Bank of Japan Working Paper Series* No. 16-E-5, 2016.
-
----
-
-## Works in Progress
-
-* **Supply and Demand Shocks, Global Value Chains, and Inflation: Evidence from Trade Microdata**  
-  (with Harumasa Shirakawa)
-
-* **Investment Behavior over Firm and CEO Life Cycles**  
-  (with Daisuke Miyakawa)
-
-* **Merger Patterns, Costly Exit, and Aggregate Implications**
+* Supply and Demand Shocks, Global Value Chains, and Inflation: Evidence from Trade Microdata, with Harumasa Shirakawa
+* Investment Behavior over Firm and CEO Life Cycles, with Daisuke Miyakawa.
+* Merger Patterns, Costly Exit, and Aggregate Implications.
