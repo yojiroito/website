@@ -1,9 +1,10 @@
 project:
   type: website
   output-dir: _site
+  # data/research.yml から Markdown 断片を生成してからレンダリングする
+  pre-render: scripts/build_lists.py
   resources:
     - "header.png"
-    - "cv.pdf"
 
 website:
   title: "Yojiro Ito"
@@ -11,7 +12,6 @@ website:
   search: false
   page-navigation: false
   back-to-top-navigation: false
-  # navbar / sidebar は定義しない（= Google Sites 同様のナビ無し1枚ページ）
 
 format:
   html:
