@@ -36,8 +36,8 @@
   --hero-parallax: 120px;
   --hero-overlay: rgba(0, 0, 0, 0.10);   /* 元サイトはほぼ素の画像 */
   --hero-focus: 50% 45%;
-  --hero-title-size: 80px;       /* ※画像からの推定。実測したら置換 */
-  --hero-title-weight: 700;      /* ※同上 */
+  --hero-title-size: 100px;      /* 目視調整で決定 */
+  --hero-title-weight: 700;
 }
 
 /* ==========================================================
@@ -187,8 +187,8 @@ main.content > p {
 .gs-heading {
   font-family: var(--gs-font);
   font-size: var(--gs-body-size);
-  font-weight: 400;
-  /* font-weight: 700; */        /* ← 太字にしたい場合はここを有効化 */
+  /* font-weight: 400; */        /* ← 元サイト（太字なし）に戻す場合はこちらを有効化 */
+  font-weight: 700;
   line-height: var(--gs-body-line);
   color: var(--gs-text);
   margin: 60px 0 0;              /* 元サイトの空段落ぶんの間隔 */
